@@ -1,10 +1,10 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.mr-auto, .mx-auto {
+  margin-right: auto!important;
 }
 
 @media (prefers-reduced-motion: no-preference) {
